@@ -1,4 +1,3 @@
-title: false
 
 # H1
 ## H2
